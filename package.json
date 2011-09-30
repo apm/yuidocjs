@@ -1,6 +1,6 @@
 {
     "name": "yuidocjs",
-    "version": "0.1.9",
+    "version": "0.2.0",
     "description": "YUI Doc, JavaScript port",
     "author": "Dav Glass <davglass@gmail.com>",
     "bugs": { "web" : "http://github.com/davglass/yuidocjs/issues" },
@@ -17,7 +17,7 @@
     "dependencies": {
         "yui3": "*",
         "node-markdown": "*",
-        "yui3-core": "3.3.0",
+        "yui3-core": "3.4.0",
         "minimatch": "0.0.4"
     },
     "preferGlobal": "true",
